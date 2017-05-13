@@ -1,2 +1,2 @@
 # Presentations
-My presentations in different companies
+My presentations on various Software Development topics.
